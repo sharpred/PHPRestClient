@@ -17,7 +17,6 @@
         }
     ],
     "require": {
-        "php": ">=5.1.0",
-        "ext-httprequest": "*"
+        "php": ">=5.1.0"
     }
 }
