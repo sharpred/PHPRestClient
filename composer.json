@@ -1,0 +1,23 @@
+{
+    "name": "sharpred/phprestclient",
+    "type": "library",
+    "description": "Simple RESTful client based on PECL HttpRequest class",
+    "keywords": [
+        "rest",
+        "http",
+        "httprequest"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Ryan",
+            "email": "paul@sharpred.com",
+            "homepage": "http://about.me/paulryan",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.0",
+        "ext-httprequest": "*"
+    }
+}
